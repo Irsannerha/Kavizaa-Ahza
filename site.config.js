@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Kavizaahza",
     image: "/img.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Poerty Blog",
-    bio: "Setiap bait puisi bagiku adalah sehelai benang yang membentuk jalinan emosi dan makna.",
+    bio: "Puisi yang Tak Terbatas dan Cerita kita yang Abadi.",
     email: "kavizaahza.dev@gmail.com",
     linkedin: "kavizaahza",
     github: "kavizaahza",
