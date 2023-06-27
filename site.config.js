@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Puisi`,
-      href: "https://instagram.com/",
+      name: `noname`,
+      href: "https://github.com/irsannerha",
     },
   ],
   // blog setting (required)
