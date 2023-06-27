@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Irsan Kavizaa",
+    name: "Kavizaa Ahza",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
     bio: "I develop everything using node.",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-lo`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Puisi`,
+      href: "https://instagram.com/",
     },
   ],
   // blog setting (required)
