@@ -1,8 +1,8 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Kavizaahza",
-    image: "/img.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "kavizaahza",
+    image: "/img-kvz.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Poerty Blog",
     bio: "Puisi yang Tak Terbatas dan Cerita kita yang Abadi.",
     email: "kavizaahza.dev@gmail.com",
