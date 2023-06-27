@@ -9,7 +9,7 @@ const CONFIG = {
     linkedin: "kavizaahza",
     github: "kavizaahza",
     instagram: "kavizaahza",
-    twitter: "kavizaahza",
+    telegram: "kavizaahza",
   },
   projects: [
     {
